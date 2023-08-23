@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Y_FE_react-app/static/css/main.b40a145f.css",
+    "main.js": "/Y_FE_react-app/static/js/main.9b17e413.js",
+    "static/js/787.b701888c.chunk.js": "/Y_FE_react-app/static/js/787.b701888c.chunk.js",
+    "index.html": "/Y_FE_react-app/index.html",
+    "main.b40a145f.css.map": "/Y_FE_react-app/static/css/main.b40a145f.css.map",
+    "main.9b17e413.js.map": "/Y_FE_react-app/static/js/main.9b17e413.js.map",
+    "787.b701888c.chunk.js.map": "/Y_FE_react-app/static/js/787.b701888c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b40a145f.css",
+    "static/js/main.9b17e413.js"
+  ]
+}
